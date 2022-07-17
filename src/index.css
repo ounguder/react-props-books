@@ -23,6 +23,28 @@ body{
   }
   
 }
+.myHeader{
+  margin-top: 0.25rem;
+  color:#617d98;
+  font-size:xx-large;
+  text-align: center;
+  
+}
+.search{
+  text-align: center;
+  width: 400px;
+  height: 25px;
+  background-color: white;
+  border-radius: 10px ;
+  border-width: 3px ;
+  border-color: #617d98;
+  border-style:solid;
+  justify-content: center;
+
+}
+.searchdiv{
+  text-align: center;
+}
 .book{
   background-color: #fff;
   border-radius: 1rem;
